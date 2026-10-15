@@ -1,0 +1,10 @@
+# Motor algorítmico (estaciones/): solo biblioteca estándar de Python 3.10+
+# Visualización, app y notebook:
+folium>=0.17
+matplotlib>=3.8
+plotly>=5.20
+pandas>=2.0
+streamlit>=1.50
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0

@@ -1,0 +1,7 @@
+origen,destino,longitud_m,nombre
+0,1,4000,Calle 1
+1,0,4000,Calle 1
+1,2,4000,Calle 2
+2,1,4000,Calle 2
+2,3,4000,Calle 3
+3,2,4000,Calle 3
