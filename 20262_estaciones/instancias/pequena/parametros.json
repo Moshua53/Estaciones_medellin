@@ -1,0 +1,26 @@
+{
+  "descripcion": "Barrio ficticio de 9 intersecciones. Instancia para verificar a mano.",
+  "presupuesto_millones": 6000,
+  "unidad_costos": "millones de pesos colombianos",
+  "un_lote_admite_a_lo_sumo_una_estacion": true,
+  "tipos": {
+    "hurto": {
+      "estacion": "CAI",
+      "costo_base": 1000,
+      "radio_m": 1000,
+      "peso": 1
+    },
+    "accidente": {
+      "estacion": "Estación de tránsito y grúas",
+      "costo_base": 2000,
+      "radio_m": 2000,
+      "peso": 3
+    },
+    "incendio": {
+      "estacion": "Estación de bomberos",
+      "costo_base": 5000,
+      "radio_m": 3000,
+      "peso": 5
+    }
+  }
+}

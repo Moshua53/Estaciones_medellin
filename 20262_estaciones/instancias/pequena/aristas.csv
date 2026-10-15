@@ -1,0 +1,23 @@
+origen,destino,longitud_m,nombre
+0,1,950,Calle 1
+0,3,930,Carrera A
+1,0,950,Calle 1
+1,2,980,Calle 1
+1,4,920,Carrera B
+2,1,980,Calle 1
+2,5,950,Carrera C
+3,0,930,Carrera A
+3,4,900,Calle 2
+3,6,990,Carrera A
+4,1,920,Carrera B
+4,3,900,Calle 2
+4,5,960,Calle 2
+4,7,940,Carrera B
+5,2,950,Carrera C
+5,8,990,Carrera C
+6,3,990,Carrera A
+6,7,970,Calle 3
+7,4,940,Carrera B
+7,6,970,Calle 3
+7,8,910,Calle 3
+8,7,910,Calle 3
